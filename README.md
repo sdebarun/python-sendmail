@@ -1,7 +1,7 @@
 # python sendmail using smtplib
 
 A simple working script of sending email using `smtplib library in python
-please replace the entities within `<replace the item> 
+please replace the entities within <replace the item> `
 I have used yahoo but you can use any smtp server.
 
 Provider	                               SMTP server domain name
