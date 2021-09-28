@@ -1,4 +1,4 @@
-# python-sendmail
+# python sendmail using smtplib
 
 A simple working script of sending email using `smtplib library in python
 please replace the entities within `<replace the item> 
