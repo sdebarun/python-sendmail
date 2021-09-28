@@ -26,7 +26,7 @@ smtp.login(fromEmail,MAIL_APP_PASSWORD)
 smtp.sendmail(fromEmail, toMail, msg)
 smtp.sendmail(fromEmail, toMail, msg1)
 
-print(smtp.getreply())
+# print(smtp.getreply())
 smtp.quit()
 
 
