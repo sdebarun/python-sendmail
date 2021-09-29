@@ -39,9 +39,3 @@ if SMTP_LOG :
     f = open("smtp.log", "a")
     f.write(logString)
     f.close()
-
-
-
-
-
-
